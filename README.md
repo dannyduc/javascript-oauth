@@ -34,5 +34,6 @@ Add more examples and read documentation from:
     http://connect.facebook.net/en_US/all/debug.js
     https://github.com/stackmob/stackmob-js-sdk
     https://github.com/stackmob/stackmob-javascript-examples
+    http://dev.splunk.com/view/splunk-sdk-javascript/SP-CAAAECM
 
 

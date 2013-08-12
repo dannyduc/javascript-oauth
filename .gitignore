@@ -1,0 +1,14 @@
+
+src/main/resources/app.properties
+
+.DS_Store/
+
+.idea/
+*.iml
+
+*.class
+*.jar
+*.war
+*.ear
+
+target/

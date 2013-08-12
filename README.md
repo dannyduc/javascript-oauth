@@ -35,5 +35,6 @@ Add more examples and read documentation from:
     https://github.com/stackmob/stackmob-js-sdk
     https://github.com/stackmob/stackmob-javascript-examples
     http://dev.splunk.com/view/splunk-sdk-javascript/SP-CAAAECM
+    https://github.com/andreassolberg/jso
 
 
